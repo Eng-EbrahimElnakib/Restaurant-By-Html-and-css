@@ -1,0 +1,183 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Varela Round', 'sans-serif';
+    background-image: url(../images/1.jpg);
+}
+
+
+.header {
+    background-repeat: no-repeat;
+    opacity: 0.7;
+}
+
+.header .logo {
+    width: 30%;
+    float: left;
+}
+
+.header .nav {
+    width: 60%;
+    list-style: none;
+    float: left;
+}
+
+.header .nav li {
+    display: inline-block;
+}
+
+.header .nav li a {
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 89px 50px;
+    font-size: 20px;
+}
+
+.clear {
+    clear: both;
+}
+
+.container {
+    background-color: white;
+}
+
+.header-content {
+    overflow: hidden;
+}
+
+.lol {
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 900px;
+}
+
+
+
+.content1 .container1 button a {
+    text-decoration: none;
+    color: rgb(250, 243, 243);
+}
+
+button  {
+    background-color: rgb(243, 183, 183);
+    color: rgb(0, 0, 0);
+    width: 90px;
+    border-radius: 10% /50%;
+    height: 40px;
+    font-size: 15px;
+   
+}
+button a {
+text-decoration: none;
+color: black;
+}
+
+button:hover {
+    background-color: white;
+    transition: 0.8s ease-in-out;
+}
+
+
+
+.aboutUs {
+    background-image: url("../images/Remini.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: whitesmoke;
+    padding-left: 19px;
+}
+
+.au {
+    font-family: cursive;
+    padding-left: 1180px;
+    font-size: 57px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.alltext {
+    font-family: cursive;
+    padding-left: 1180px;
+    font-size: 34px;
+    text-align: left;
+    list-style: none;
+}
+
+
+
+.sp {
+    color: rgb(22, 170, 34);
+}
+
+.clear {
+    clear: left;
+}
+
+.aboutUs {
+    background-image: url("../images/Remini.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: whitesmoke;
+    padding-left: 19px;
+}
+
+.au {
+    font-family: cursive;
+    padding-left: 1180px;
+    font-size: 57px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.alltext {
+    font-family: cursive;
+    padding-left: 1180px;
+    font-size: 34px;
+    text-align: left;
+    list-style: none;
+}
+
+
+
+
+.clear {
+    clear: left;
+}
+
+
+h1 {
+    color: white;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    color: white;
+    font-size: 20px;
+}
+
+span {
+    color: white;
+}
+
+.about {
+    width: 50%;
+    float: left;
+}
+
+.about2 {
+    width: 50%;
+    float: left;
+}
+
+.aboutin {
+    font-size: 19px;
+}
